@@ -1,0 +1,3 @@
+[submodule "LiveLonger/HowToLiveLonger"]
+	path = LiveLonger/HowToLiveLonger
+	url = https://github.com/geekan/HowToLiveLonger.git
